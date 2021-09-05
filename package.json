@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-page-treeview",
+  "name": "gitbook-plugin-page-treeview-simple",
   "version": "3.0.6",
   "description": "a gitbook plugin for generating a treeview of each page",
   "engines": {
@@ -11,22 +11,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aleen42/gitbook-treeview.git"
+    "url": "git+https://github.com/vinnyzhaowenyu/gitbook-plugin-page-treeview-simple.git"
   },
   "keywords": [
     "gitbook-plugin",
     "gitbook",
     "treeview"
   ],
-  "author": "aleen42 <aleen42@vip.qq.com> (http://aleen42.github.io/pc.html)",
+  "author": "vinnyzhaowenyu <admin@zhaowenyu.com> (http://www.zhaowenyu.com)",
   "contributors": [
-    "aleen42 <aleen42@vip.qq.com>"
+    "vinnyzhaowenyu <admin@zhaowenyu.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aleen42/gitbook-treeview/issues"
+    "url": "https://github.com/vinnyzhaowenyu/gitbook-plugin-page-treeview-simple/issues"
   },
-  "homepage": "https://github.com/aleen42/gitbook-treeview#readme",
+  "homepage": "https://github.com/vinnyzhaowenyu/gitbook-plugin-page-treeview-simple#readme",
   "dependencies": {
     "remarkable": "1.6.2",
     "marked": "1.2.7",
