@@ -6,7 +6,7 @@
     content: "";
     width: 0;
     height: 0;
-    border: 5px solid transparent;
+    /* border: 5px solid transparent; */
     display: inline-block;
     margin-left: 0.5em;
     vertical-align: middle;
